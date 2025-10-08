@@ -42,5 +42,3 @@ Ideal for demonstrating skills in data cleaning, statistics, and Python automati
 
 Iroha Robert
 Cybersecurity & Python Professional
-📍 Lagos, Nigeria
-🔗 LinkedIn Profile (add yours here)
